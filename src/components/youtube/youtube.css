@@ -1,0 +1,43 @@
+.titleSearch {
+    font-style: italic;
+}
+.searchBar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+.textBoxSearch {
+    flex-basis: 50%;
+    margin-right: 10px !important;
+}
+
+.listStyle {
+    color: blue; /* Change the color to blue */
+    text-decoration: underline; /* Add underline */
+    cursor: pointer; /
+}
+
+.dayStyle {
+    display: flex;
+    flex-direction: column;
+    padding-left: 7rem;
+    img {
+        width: 6rem;
+    }
+}
+
+.css-1bjk3jo-MuiButtonBase-root-MuiBottomNavigationAction-root.Mui-selected {
+    color: #1976d2;
+    font-weight: bold;
+}
+.css-16lloyr-MuiBottomNavigation-root {
+    display: flex;
+    flex-direction: column;
+    height: 300px !important;
+}
+
+.MuiPaper-elevation  {
+    display:flex;
+    width: auto !important;
+}
